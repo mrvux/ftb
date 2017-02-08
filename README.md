@@ -18,9 +18,12 @@ Example result:
 
 using System;
 
-namespace MyNamespace {
-public partial static class GeneratedFile { 
-   public static byte[] MyBinaryData  = { 
+namespace MyNamespace 
+{
+public partial static class GeneratedFile 
+{ 
+   public static byte[] MyBinaryData  = 
+{ 
    77 , 90 , 144 , 0 , 3 , 
    0 , 0 , 0 , 4 , 0 , 
    0 , 0 , 255 , 255 , 0 , 
