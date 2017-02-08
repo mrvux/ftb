@@ -5,6 +5,7 @@ This is a small command line application that allows to take a file and convert 
 
 Arguments:
 
+```
 -i {s}            Input file name
 -o {s}            Output file name
 -col {i}          Variable count per line
@@ -13,6 +14,7 @@ Arguments:
 -field {s}        Variable name (Default to input file name)
 -classmod {s}     Class modifier (Defaults to public static partial)
 -fieldmod {s}     Variable modifier (Default to public static readonly)
+```
 
 Example result:
 
