@@ -16,6 +16,7 @@ Arguments:
 
 Example result:
 
+```
 using System;
 
 namespace MyNamespace 
@@ -31,7 +32,7 @@ public partial static class GeneratedFile
 };
 }
 }
-
+```
 This is useful to quickly embed some binary data in an assembly without having to resort to any on disk mechanism, or some Assembly manifest loading.
 
 Just access your field instead.
